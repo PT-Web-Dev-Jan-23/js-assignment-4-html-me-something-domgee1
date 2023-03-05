@@ -1,1 +1,23 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    block-size: display;
+    background-color: rgba(65, 62, 62, 0.719);
+}
+header,
+main,
+p,
+footer{
+text-align: center;
+}
+#h1, #h2, #h3, #header {
+    text-align: center;
+    text-size-adjust: ;
+    color: rgb(243, 0, 0);
+
+}
+
+p {
+    text-size-adjust: 15;
+    color:rgb(250, 246, 246) 
+}
